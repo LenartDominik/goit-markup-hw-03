@@ -15,3 +15,21 @@ body {
   .container {
   width: 1200px;
   }
+.product-card {
+  border: var(--productborder) solid 1px;
+  width: 370px;
+  height: 404px;
+}
+.product-card-header {
+  color: var(--darkgrey);
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  line-height: 2;
+  margin: 20px 0 4px 24px;
+}
+.product-card-text {
+  line-height: 1.88;
+  font-size: 16px;
+  margin: 0 0 0 24px;
+}

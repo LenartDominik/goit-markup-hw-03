@@ -9,5 +9,9 @@ body {
   font-size: 14px;
   }
   .wrapper {
-    
+  background-color: var(--white);
+  width: 1600px;
+  }
+  .container {
+  width: 1200px;
   }

@@ -113,6 +113,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 200px 0;
+  white-space: pre;
 }
 .top-section-text {
   font-size: 44px;
@@ -120,6 +121,7 @@ body {
   text-align: center;
   line-height: 1.364;
   letter-spacing: 0.06em;
+  white-space: pre;
 }
 .order-service-button {
   background-color: var(--blue);

@@ -10,7 +10,7 @@
   --notwhite: #f5f4fa;
   --footerlinks: #ffffff99;
   --productborder: #eeeeee;
-
+}
 body {
   font-family: "Roboto", "Raleway", sans-serif;
   color: var(--grey);

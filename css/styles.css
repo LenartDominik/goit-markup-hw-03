@@ -86,9 +86,9 @@ body {
   margin: 0;
 }
 .link-style {
-  color: var(--notblack);
+  color: var(--blue);
   font-weight: 500;
-  color:blue
+  color: black
 }
 .contact-link-style {
   color: var(--grey);

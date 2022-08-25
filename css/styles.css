@@ -8,7 +8,7 @@
   --lightcream: #ececec;
   --notblack: #212121;
   --notwhite: #f5f4fa;
-  --footerlinks: #ffffff99;
+  --footerlinks: #ffffff60;
   --productborder: #eeeeee;
 }
 
@@ -17,20 +17,17 @@
 body {
   font-family: "Roboto", "Raleway", sans-serif;
   color: var(--grey);
-  background-color: var(--lightgrey);
   font-size: 14px;
   letter-spacing: 0.03em;
   margin: 0;
   padding: 0;
-}
-.wrapper {
-  background-color: var(--white);
-  width: 1600px;
-  margin: 0 auto;
+  background-color: #fff;
 }
 .container {
-  width: 1200px;
-  margin: 0 auto;
+  width: 100%; 
+  max-width: 1200px; 
+  padding: 0 15px; 
+  margin: 0 auto
 }
 .footer-links:hover,
 .footer-links:focus,
@@ -114,12 +111,14 @@ body {
   align-items: center;
   padding: 200px 0;
 }
+
 .top-section-text {
   font-size: 44px;
   font-weight: 900;
   text-align: center;
   line-height: 1.364;
   letter-spacing: 0.06em;
+  max-width: 696px;
 }
 .order-service-button {
   background-color: var(--blue);
@@ -131,13 +130,14 @@ body {
   height: 50px;
   font-weight: 700;
   font-size: 16px;
+  font-family: "Roboto"
 }
 /* Our speciality section */
 .our-speciality {
-  padding: 94px 0 0 0;
   display: flex;
   list-style: none;
   flex-direction: row;
+  margin: 94px 0 0 0;
   gap: 30px;
   justify-content: center;
 }
@@ -146,7 +146,7 @@ body {
   color: var(--notblack);
   margin: 0 0 10px 0;
   font-size: 14px;
-  line-height: 1.145;
+  line-height: 1.1428571428571428;
 }
 .our-speciality-text {
   line-height: 0.03em;
@@ -205,13 +205,13 @@ body {
   font-size: 16px;
 }
 
-/* Styles for main section PORTFOLIO PAGE ONLY*/
+/* Styles for main section PORTFOLIO PAGE ONLY */
 
 .filter-buttons {
   display: flex;
   justify-content: center;
   gap: 8px;
-  margin: 94px 0 0 0;
+  margin-top: 94px;
   list-style: none;
 }
 .filter-button {
@@ -239,13 +239,11 @@ body {
   margin-top: 50px;
   margin-bottom: 94px;
   list-style: none;
-  justify-content: center;
 }
 .product-card {
   border: var(--productborder) solid 1px;
-  flex-basis: calc((100% - 90px) / 4);
+  width: 370px;
   height: 404px;
-  margin: 0;
 }
 .product-card-header {
   color: var(--darkgrey);
@@ -265,7 +263,6 @@ body {
 }
 
 /* Styles for footer section */
-
 .footer {
   width: 100%;
   background-color: var(--darkgrey);
@@ -284,7 +281,6 @@ body {
 .footer-container {
   flex-direction: column;
   color: var(--white);
-  margin-left: 215px; 
 }
 .footer-link-list {
   list-style: none;

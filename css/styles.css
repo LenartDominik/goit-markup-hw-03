@@ -28,13 +28,11 @@ body {
   max-width: 1200px; 
   padding: 0 15px; 
   margin: 0 auto;
-  border: 1px dotted red;
 }
 .footer-links:hover,
 .footer-links:focus,
 .blue-text:hover,
-.blue-text:focus,
-.current-link {
+.blue-text:focus {
   color: var(--blue);
 }
 .no-margin {

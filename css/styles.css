@@ -65,10 +65,7 @@ body {
   font-weight: 700;
   line-height: 1.193;
   letter-spacing: 0.03em;
-}
-.blue-text {
-  color: var(--blue);
-}
+
 .nav-list {
   display: flex;
   list-style: none;

@@ -33,7 +33,8 @@ body {
 .footer-links:hover,
 .footer-links:focus,
 .blue-text:hover,
-.blue-text:focus {
+.blue-text:focus,
+.current-link {
   color: var(--blue);
 }
 .no-margin {

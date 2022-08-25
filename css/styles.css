@@ -88,6 +88,7 @@ body {
 .link-style {
   color: var(--notblack);
   font-weight: 500;
+  color:blue
 }
 .contact-link-style {
   color: var(--grey);

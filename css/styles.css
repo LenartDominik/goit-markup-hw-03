@@ -243,6 +243,8 @@ body {
 .product-card {
   border: var(--productborder) solid 1px;
   height: 404px;
+  flex-basis: calc((100% - 90px) / 4);
+  margin: 0;
 }
 .product-card-header {
   color: var(--darkgrey);

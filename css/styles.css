@@ -242,7 +242,6 @@ body {
 }
 .product-card {
   border: var(--productborder) solid 1px;
-  width: 370px;
   height: 404px;
 }
 .product-card-header {

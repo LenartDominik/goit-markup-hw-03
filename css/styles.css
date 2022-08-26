@@ -242,7 +242,6 @@ padding: 0 94px;
   list-style: none;
 }
 .product-card {
-  height: 404px;
   flex-basis: calc((100% - 90px) / 4);
   margin: 0;
 }

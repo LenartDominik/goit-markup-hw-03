@@ -29,9 +29,7 @@ body {
   margin: 0 auto;
 }
 .section { 
-padding-top: 94px;
-padding-bottom: 94px;
-margin: 0 auto;
+padding: 94px 0;
 }
 .footer-links:hover,
 .footer-links:focus,

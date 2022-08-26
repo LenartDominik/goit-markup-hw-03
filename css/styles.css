@@ -93,11 +93,11 @@ padding: 0 94px;
   color: var(--grey);
   font-weight: 500;
 }
+.blue-text {
+ color: var(--blue);
+} 
 .link-no-underline {
   text-decoration: none;
-}
-.blue-text {
-  color: var(--blue)
 }
 
 /* Styles for main section INDEX PAGE ONLY*/

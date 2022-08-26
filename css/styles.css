@@ -88,15 +88,16 @@ padding: 0 94px;
   color: var(--notblack);
   font-weight: 500;
 }
-.blue-text {
-  color: var(--blue)
-}
+
 .contact-link-style {
   color: var(--grey);
   font-weight: 500;
 }
 .link-no-underline {
   text-decoration: none;
+}
+.blue-text {
+  color: var(--blue)
 }
 
 /* Styles for main section INDEX PAGE ONLY*/

@@ -65,8 +65,7 @@ body {
   line-height: 1.193;
   letter-spacing: 0.03em;
 }
-.blue-text
-.blue-text-active {
+.blue-text {
   color: var(--blue)
 }
 .nav-list {

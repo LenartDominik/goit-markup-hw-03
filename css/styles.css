@@ -68,6 +68,9 @@ padding: 0 94px;
   line-height: 1.193;
   letter-spacing: 0.03em;
 }
+.blue-text {
+  color: var(--blue)
+}
 .nav-list {
   display: flex;
   list-style: none;
@@ -84,13 +87,9 @@ padding: 0 94px;
   margin-left: auto;
   margin: 0;
 }
-.link-style
- {
+.link-style {
   color: var(--notblack);
   font-weight: 500;
-}
-.link-style.blue-text {
-  color: var(--blue);
 }
 .contact-link-style {
   color: var(--grey);

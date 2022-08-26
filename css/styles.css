@@ -242,7 +242,7 @@ padding: 94px 0;
   list-style: none;
 }
 .product-card {
-  border: var(--productborder) solid 1px;
+  /* border: var(--productborder) solid 1px; */
   height: 404px;
   flex-basis: calc((100% - 90px) / 4);
   margin: 0;

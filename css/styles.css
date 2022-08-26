@@ -68,9 +68,6 @@ body {
 .blue-text {
   color: var(--blue)
 }
-.active {
-color: blue
-}
 .nav-list {
   display: flex;
   list-style: none;

@@ -103,7 +103,7 @@ body {
 .top-section {
   background-color: var(--darkgrey);
   color: var(--white);
-  /* width: 100%; */
+  width: 100%;
   display: flex;
   gap: 30px;
   flex-direction: column;

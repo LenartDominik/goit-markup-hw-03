@@ -67,7 +67,7 @@ body {
   letter-spacing: 0.03em;
 }
 .blue-text {
-  color: var(--blue);
+  color: var(--blue)
 }
 .nav-list {
   display: flex;
@@ -103,7 +103,7 @@ body {
 .top-section {
   background-color: var(--darkgrey);
   color: var(--white);
-  width: 100%;
+  /* width: 100%; */
   display: flex;
   gap: 30px;
   flex-direction: column;

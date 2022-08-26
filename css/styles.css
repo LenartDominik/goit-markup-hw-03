@@ -84,7 +84,7 @@ padding: 94px 0;
 }
 .contacts-style {
   gap: 50px;
-  padding: 0 0 0 278px;
+  margin-left: auto;
   margin: 0;
 }
 .link-style {

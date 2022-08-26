@@ -28,6 +28,9 @@ body {
   padding: 0 15px; 
   margin: 0 auto;
 }
+.section { 
+padding: 94px 0;
+}
 .footer-links:hover,
 .footer-links:focus,
 .blue-text:hover,
@@ -170,7 +173,6 @@ body {
 /* Our team section */
 .our-team-background {
   background-color: var(--notwhite);
-  padding: 94px 0;
 }
 .our-team {
   align-items: center;

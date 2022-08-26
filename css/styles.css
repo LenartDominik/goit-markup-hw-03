@@ -159,7 +159,7 @@ padding: 94px 0;
 .our-services {
   align-items: center;
   flex-direction: column;
-  padding-top: 0; 
+  padding: 0 94px;
 }
 .our-services-list {
   display: flex;

@@ -220,11 +220,11 @@ padding: 20px 24px 0 24px;
 border-left: 1px solid var(--productborder);
 border-right: 1px solid red;
 } */
-p {
+/* p {
 padding: 0 24px 20px 24px;
 border: 1px solid red;
 border-top: 0;
-}
+} */
 
 .filter-buttons {
   display: flex;

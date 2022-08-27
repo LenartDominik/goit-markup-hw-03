@@ -34,8 +34,8 @@ padding-bottom: 94px;
 }
 .footer-links:hover,
 .footer-links:focus,
-.link-style:hover,
-.link-style:focus {
+.blue-text:hover,
+.blue-text:focus {
   color: var(--blue);
 }
 .no-margin {

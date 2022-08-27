@@ -220,6 +220,7 @@ margin: 0;
   justify-content: center;
   gap: 8px;
   list-style: none;
+  margin-bottom: 50px
 }
 .filter-button {
   background-color: var(--notwhite);

@@ -251,6 +251,7 @@ margin: 0;
 .product-card {
   flex-basis: calc((100% - 90px) / 4);
   margin: 0;
+  display: block;
 }
 .product-card-header {
   color: var(--darkgrey);

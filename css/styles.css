@@ -34,8 +34,8 @@ padding-bottom: 94px;
 }
 .footer-links:hover,
 .footer-links:focus,
-.blue-text:hover,
-.blue-text:focus
+/* .blue-text:hover,
+.blue-text:focus */
 .link-style .blue-text:focus
 .link-style .blue-text:hover {
   color: var(--blue);

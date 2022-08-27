@@ -69,8 +69,8 @@ padding-bottom: 94px;
   line-height: 1.193;
   letter-spacing: 0.03em;
 }
-.link-style,
-.blue-text, {
+.blue-text,
+.link-style {
   color: var(--blue)
 }
 .nav-list {

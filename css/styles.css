@@ -259,12 +259,12 @@ margin: 0;
   font-weight: 700;
   letter-spacing: 0.06em;
   line-height: 2;
-  margin: 20px 0 4px 24px;
+  margin: 0;
 }
 .product-card-text {
   line-height: 1.88;
   font-size: 16px;
-  margin: 0 0 0 24px;
+  margin: 0;
 }
 .header-line-border {
   border-bottom: var(--lightcream) solid 1px;

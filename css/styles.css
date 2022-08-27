@@ -214,6 +214,17 @@ padding-bottom: 94px;
 padding: 0;
 margin: 0;
 }
+h4 {
+padding: 20px 24px 0 24px;
+border-left: 1px solid color;
+border-right: 1px solid color;
+}
+p {
+padding: 0 24px 20px 24px;
+border: 1px solid color;
+border-top: 0;
+}
+
 .filter-buttons {
   display: flex;
   justify-content: center;

@@ -211,11 +211,14 @@ padding-bottom: 94px;
 
 /* Styles for main section PORTFOLIO PAGE ONLY */
 
+.ul {
+padding: 0;
+margin: 0;
+}
 .filter-buttons {
   display: flex;
   justify-content: center;
   gap: 8px;
-  margin-top: 94px;
   list-style: none;
 }
 .filter-button {

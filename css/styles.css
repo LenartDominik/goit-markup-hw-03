@@ -32,12 +32,12 @@ body {
 padding-top: 94px;
 padding-bottom: 94px;
 }
-.footer-links:hover
+.footer-links:hover 
 .footer-links:focus, 
 .link-style:focus, 
 .link-style:hover, 
-.blue-text {
-  color: var(--blue);
+.blue-text.link-style {
+   color: var(--blue);
 }
 .no-margin {
   margin: 0;

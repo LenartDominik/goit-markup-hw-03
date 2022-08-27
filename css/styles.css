@@ -216,12 +216,12 @@ margin: 0;
 }
 h4 {
 padding: 20px 24px 0 24px;
-border-left: 1px solid color: var(--productborder);
-border-right: 1px solid color: var(--productborder);
+border-left: 1px solid var(--productborder);
+border-right: 1px solid var(--productborder);
 }
 p {
 padding: 0 24px 20px 24px;
-border: 1px solid color: var(--productborder);
+border: 1px solid var(--productborder);
 border-top: 0;
 }
 

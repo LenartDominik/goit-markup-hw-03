@@ -214,7 +214,8 @@ ul {
 padding: 0;
 margin: 0;
 }
-h4 {
+h4, .product-card-text, 
+{
 padding: 20px 24px 0 24px;
 border-left: 1px solid var(--productborder);
 border-right: 1px solid red;

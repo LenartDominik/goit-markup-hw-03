@@ -71,9 +71,9 @@ padding-bottom: 94px;
   line-height: 1.193;
   letter-spacing: 0.03em;
 }
-.blue-text {
+/* .blue-text {
   color: var(--blue)
-}
+} */
 .nav-list {
   display: flex;
   list-style: none;

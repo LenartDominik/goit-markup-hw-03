@@ -89,9 +89,9 @@ padding-bottom: 94px;
   margin: 0;
   margin-left: auto;
 }
-.link-style {
+/* .link-style {
   color: var(--notblack);
-  font-weight: 500;
+  font-weight: 500; */
 }
 .contact-link-style {
   color: var(--grey);

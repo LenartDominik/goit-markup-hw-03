@@ -214,7 +214,7 @@ ul {
 padding: 0;
 margin: 0;
 }
-h4
+/* h4
 {
 padding: 20px 24px 0 24px;
 border-left: 1px solid var(--productborder);
@@ -224,7 +224,7 @@ p {
 padding: 0 24px 20px 24px;
 border: 1px solid red;
 border-top: 0;
-}
+} */
 
 .filter-buttons {
   display: flex;
@@ -263,6 +263,9 @@ border-top: 0;
   flex-basis: calc((100% - 90px) / 4);
   margin: 0;
   display: block;
+  padding: 20px 24px 0 24px;
+  border-left: 1px solid var(--productborder);
+  border-right: 1px solid red;
 }
 .product-card-header {
   color: var(--darkgrey);
